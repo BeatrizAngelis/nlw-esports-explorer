@@ -27,7 +27,7 @@ header div {
   border-radius: 50%;
   display: flex;
   padding: 4px;
-  animation: fromTop 0.7s 0.2s backwards;
+  animation: fromTop 0.2s 0.2s backwards;
 }
 
 header div:hover {
