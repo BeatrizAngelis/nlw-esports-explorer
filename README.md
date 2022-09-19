@@ -18,7 +18,7 @@ Projeto construído do evento Next Level Week da Rockeatseat.
 
 - Transições
 - Animações de entrada e saida
-  -Novos seletores do CSS como nth-child
+- Novos seletores do CSS como nth-child
 
 ## 📞 Contato
 
